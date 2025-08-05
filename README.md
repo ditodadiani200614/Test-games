@@ -1,4 +1,4 @@
-shmup-game
+SHMUP-GAME
 
 This is a 2D space shooter game where the player controls a spaceship and tries to destroy falling meteors. 
 The goal is to survive as long as possible and achieve the highest score by shooting down obstacles in space. 
