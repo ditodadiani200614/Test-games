@@ -121,7 +121,9 @@ What I Learned
 -Mapping weather codes to emojis for visualization
 -Organizing code with object-oriented principles
 
-FitTrack - Fitness Tracking and Visualization App
+FitTrack 
+
+
 FitTrack is a desktop application that lets users log workout details and visualize fitness progress over time. 
 You can enter the date, calories burned, distance ran, and a short description. 
 Data is stored in an SQLite database and shown in a table view, with an option to display a scatter plot graph.
